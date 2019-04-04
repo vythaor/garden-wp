@@ -1,0 +1,54 @@
+2019-04-04T09:40:43+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(286): Acme_Demo_Setup->handler('')
+#1 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/garden-house/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/garden-house/wp-admin/admin-ajax.php(167): do_action('wp_ajax_acme_de...')
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php on line 126
+
+2019-04-04T09:41:37+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(286): Acme_Demo_Setup->handler('')
+#1 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/garden-house/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/garden-house/wp-admin/admin-ajax.php(167): do_action('wp_ajax_acme_de...')
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php on line 126
+
+2019-04-04T09:46:26+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(286): Acme_Demo_Setup->handler('')
+#1 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/garden-house/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/garden-house/wp-admin/admin-ajax.php(167): do_action('wp_ajax_acme_de...')
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php on line 126
+
+2019-04-04T09:47:03+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(286): Acme_Demo_Setup->handler('')
+#1 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/garden-house/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/garden-house/wp-admin/admin-ajax.php(167): do_action('wp_ajax_acme_de...')
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php on line 126
+
+2019-04-04T09:49:07+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(286): Acme_Demo_Setup->handler('')
+#1 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/garden-house/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/garden-house/wp-admin/admin-ajax.php(167): do_action('wp_ajax_acme_de...')
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php on line 126
+
+2019-04-04T11:08:42+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php:126
+Stack trace:
+#0 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(286): Acme_Demo_Setup->handler('')
+#1 /Applications/MAMP/htdocs/garden-house/wp-includes/class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 /Applications/MAMP/htdocs/garden-house/wp-includes/plugin.php(465): WP_Hook->do_action(Array)
+#3 /Applications/MAMP/htdocs/garden-house/wp-admin/admin-ajax.php(167): do_action('wp_ajax_acme_de...')
+#4 {main}
+  thrown in /Applications/MAMP/htdocs/garden-house/wp-content/plugins/acme-demo-setup/inc/admin/upload.php on line 126
+
