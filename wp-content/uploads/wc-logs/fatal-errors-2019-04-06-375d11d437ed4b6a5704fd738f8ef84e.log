@@ -1,0 +1,70 @@
+2019-04-06T07:44:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T07:46:21+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T07:56:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T08:00:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T08:03:09+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T08:04:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T08:04:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T08:14:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T09:02:33+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-admin\includes\class-wp-filesystem-direct.php on line 73
+
+2019-04-06T09:16:14+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\MAMP\htdocs\garden-house\wp-content\themes\online-shop\footer.php on line 19
+
+2019-04-06T09:17:14+00:00 CRITICAL syntax error, unexpected '<', expecting end of file in C:\MAMP\htdocs\garden-house\wp-content\themes\online-shop\footer.php on line 52
+
+2019-04-06T09:42:59+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\MAMP\htdocs\garden-house\wp-content\plugins\acme-demo-setup\inc\admin\upload.php:126
+Stack trace:
+#0 C:\MAMP\htdocs\garden-house\wp-includes\class-wp-hook.php(286): Acme_Demo_Setup->handler('')
+#1 C:\MAMP\htdocs\garden-house\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\MAMP\htdocs\garden-house\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\MAMP\htdocs\garden-house\wp-admin\admin-ajax.php(167): do_action('wp_ajax_acme_de...')
+#4 {main}
+  thrown in C:\MAMP\htdocs\garden-house\wp-content\plugins\acme-demo-setup\inc\admin\upload.php on line 126
+
+2019-04-06T09:44:30+00:00 CRITICAL Uncaught Error: [] operator not supported for strings in C:\MAMP\htdocs\garden-house\wp-content\plugins\acme-demo-setup\inc\admin\upload.php:126
+Stack trace:
+#0 C:\MAMP\htdocs\garden-house\wp-includes\class-wp-hook.php(286): Acme_Demo_Setup->handler('')
+#1 C:\MAMP\htdocs\garden-house\wp-includes\class-wp-hook.php(310): WP_Hook->apply_filters('', Array)
+#2 C:\MAMP\htdocs\garden-house\wp-includes\plugin.php(465): WP_Hook->do_action(Array)
+#3 C:\MAMP\htdocs\garden-house\wp-admin\admin-ajax.php(167): do_action('wp_ajax_acme_de...')
+#4 {main}
+  thrown in C:\MAMP\htdocs\garden-house\wp-content\plugins\acme-demo-setup\inc\admin\upload.php on line 126
+
+2019-04-06T10:47:13+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T10:51:15+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T10:52:11+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:05:00+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:06:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:07:08+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:09:34+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:10:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:10:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:12:23+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:13:36+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:14:12+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:16:05+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:18:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T11:19:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
