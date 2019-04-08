@@ -68,3 +68,11 @@ Stack trace:
 
 2019-04-06T11:19:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
 
+2019-04-06T16:08:53+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T16:15:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T16:26:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
+2019-04-06T16:30:55+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\MAMP\htdocs\garden-house\wp-includes\wp-db.php on line 2007
+
