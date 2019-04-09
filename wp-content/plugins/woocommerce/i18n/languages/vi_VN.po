@@ -26619,7 +26619,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:71
 msgid "Add a review"
-msgstr ""
+msgstr "bình luận"
 
 #: templates/single-product-reviews.php:71
 msgid "Be the first to review &ldquo;%s&rdquo;"
