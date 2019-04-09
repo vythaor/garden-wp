@@ -8,7 +8,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"PO-Revision-Date: 2019-04-09 14:43+0000\n"
+"PO-Revision-Date: 2019-04-09 18:40+0000\n"
 "Last-Translator: admin <ntphuoc00@gmail.com>\n"
 "Language-Team: Tiếng Việt\n"
 "X-Generator: Loco https://localise.biz/\n"
@@ -6522,7 +6522,7 @@ msgstr ""
 #: includes/wc-template-functions.php:1660
 #: templates/single-product/tabs/description.php:25
 msgid "Description"
-msgstr ""
+msgstr "Mô tả"
 
 #: includes/admin/class-wc-admin-api-keys-table-list.php:49
 #: includes/admin/settings/views/html-keys-edit.php:81
@@ -7256,7 +7256,7 @@ msgstr ""
 #: templates/checkout/review-order.php:106 templates/myaccount/my-orders.php:16
 #: templates/order/order-details.php:46
 msgid "Total"
-msgstr ""
+msgstr "Tổng cộng"
 
 #: includes/admin/class-wc-admin-dashboard.php:357
 #: includes/class-wc-post-types.php:380
@@ -7615,7 +7615,7 @@ msgstr ""
 #: includes/admin/settings/class-wc-settings-products.php:412
 #: templates/single-product-reviews.php:36
 msgid "Reviews"
-msgstr ""
+msgstr "Nhận xét"
 
 #: includes/admin/class-wc-admin-notices.php:135
 #: includes/admin/class-wc-admin-status.php:287
@@ -8048,7 +8048,7 @@ msgstr[1] ""
 #: includes/admin/class-wc-admin-post-types.php:689 templates/cart/cart.php:136
 #: templates/checkout/form-coupon.php:34
 msgid "Coupon code"
-msgstr ""
+msgstr "Mã giãm giá"
 
 #: includes/admin/class-wc-admin-post-types.php:703
 msgid "Description (optional)"
@@ -8120,7 +8120,7 @@ msgstr ""
 #: includes/class-wc-countries.php:629 includes/class-wc-form-handler.php:235
 #: templates/myaccount/form-edit-account.php:27
 msgid "First name"
-msgstr ""
+msgstr "Họ"
 
 #: includes/admin/class-wc-admin-profile.php:49
 #: includes/admin/class-wc-admin-profile.php:109
@@ -8129,7 +8129,7 @@ msgstr ""
 #: includes/class-wc-countries.php:636 includes/class-wc-form-handler.php:236
 #: templates/myaccount/form-edit-account.php:31
 msgid "Last name"
-msgstr ""
+msgstr "Tên"
 
 #: includes/admin/class-wc-admin-profile.php:53
 #: includes/admin/class-wc-admin-profile.php:113
@@ -8235,7 +8235,7 @@ msgstr ""
 #: includes/class-wc-countries.php:1281
 #: includes/customizer/class-wc-shop-customizer.php:679
 msgid "Phone"
-msgstr ""
+msgstr "Số điện thoại"
 
 #: includes/admin/class-wc-admin-profile.php:89
 #: includes/admin/class-wc-admin-setup-wizard.php:2259
@@ -8244,7 +8244,7 @@ msgstr ""
 #: templates/myaccount/form-edit-account.php:43
 #: templates/myaccount/form-login.php:86
 msgid "Email address"
-msgstr ""
+msgstr "Địa chỉ Email"
 
 #: includes/admin/class-wc-admin-profile.php:95
 #: includes/admin/settings/views/settings-tax.php:39
@@ -10050,7 +10050,7 @@ msgstr ""
 #: includes/widgets/class-wc-widget-products.php:54 templates/cart/cart.php:31
 #: templates/cart/cart.php:94 templates/emails/email-order-details.php:46
 msgid "Price"
-msgstr ""
+msgstr "Giá"
 
 #: includes/admin/importers/class-wc-product-csv-importer-controller.php:682
 #: templates/single-product/product-attributes.php:35
@@ -10212,7 +10212,7 @@ msgstr ""
 #: templates/emails/email-order-details.php:45
 #: templates/global/quantity-input.php:31
 msgid "Quantity"
-msgstr ""
+msgstr "Số lượng"
 
 #: includes/admin/importers/mappings/generic.php:26
 #: includes/admin/meta-boxes/views/html-product-data-advanced.php:28
@@ -10271,7 +10271,7 @@ msgstr ""
 #: templates/emails/email-order-details.php:44
 #: templates/order/order-details.php:45
 msgid "Product"
-msgstr ""
+msgstr "Sản phẩm"
 
 #: includes/admin/importers/views/html-csv-import-done.php:62
 msgid "Reason for failure"
@@ -10522,7 +10522,7 @@ msgstr ""
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:356
 #: templates/checkout/form-billing.php:33
 msgid "Billing details"
-msgstr ""
+msgstr "Thông tin khách hàng"
 
 #: includes/admin/list-tables/class-wc-admin-list-table-orders.php:360
 #: includes/admin/reports/class-wc-report-customer-list.php:213
@@ -11320,7 +11320,7 @@ msgstr ""
 #: includes/admin/meta-boxes/views/html-order-items.php:219
 #: templates/cart/cart.php:136 templates/checkout/form-coupon.php:38
 msgid "Apply coupon"
-msgstr ""
+msgstr "Áp dụng mã giảm giá"
 
 #: includes/admin/meta-boxes/views/html-order-items.php:222
 msgid "To edit this order change the status back to \"Pending\""
@@ -12729,6 +12729,8 @@ msgid ""
 "experience throughout this website, and for other purposes described in our "
 "%s."
 msgstr ""
+"Thông tin của bạn sẽ được sử dụng cho quá trình đặt hàng và những mục đích "
+"khách được liệt kê trong %s."
 
 #: includes/admin/settings/class-wc-settings-accounts.php:164
 msgid "Personal data retention"
@@ -20580,11 +20582,11 @@ msgstr ""
 
 #: includes/class-wc-checkout.php:215
 msgid "Order notes"
-msgstr ""
+msgstr "Ghi chú"
 
 #: includes/class-wc-checkout.php:216
 msgid "Notes about your order, e.g. special notes for delivery."
-msgstr ""
+msgstr "Ghi chú thêm cho đơn hàng của bạn."
 
 #: includes/class-wc-checkout.php:227
 msgid "Account username"
@@ -20737,12 +20739,12 @@ msgstr ""
 
 #: includes/class-wc-countries.php:658
 msgid "Street address"
-msgstr ""
+msgstr "Địa chỉ"
 
 #. translators: use local order of street name and house number.
 #: includes/class-wc-countries.php:660
 msgid "House number and street name"
-msgstr ""
+msgstr "Số nhà, đường, quận huyện, thành phố"
 
 #: includes/class-wc-countries.php:676
 msgid "Town / City"
@@ -21178,7 +21180,7 @@ msgstr ""
 #: includes/class-wc-frontend-scripts.php:525
 #: includes/wc-template-functions.php:2488
 msgid "optional"
-msgstr ""
+msgstr "không bắt buộc"
 
 #: includes/class-wc-frontend-scripts.php:561
 msgid ""
@@ -25656,16 +25658,16 @@ msgstr ""
 #: templates/checkout/form-shipping.php:63
 #: templates/single-product/tabs/additional-information.php:25
 msgid "Additional information"
-msgstr ""
+msgstr "Thông tin thêm"
 
 #. translators: %s: reviews count
 #: includes/wc-template-functions.php:1679
 msgid "Reviews (%d)"
-msgstr ""
+msgstr "Nhận xét (%d)"
 
 #: includes/wc-template-functions.php:2116
 msgid "Place order"
-msgstr ""
+msgstr "Đặt hàng"
 
 #: includes/wc-template-functions.php:2556
 msgid "Update country"
@@ -26045,12 +26047,12 @@ msgstr ""
 
 #: templates/cart/cart-totals.php:28
 msgid "Cart totals"
-msgstr ""
+msgstr "Tổng cộng"
 
 #: templates/cart/cart-totals.php:33 templates/cart/cart-totals.php:34
 #: templates/cart/mini-cart.php:71 templates/checkout/review-order.php:59
 msgid "Subtotal"
-msgstr ""
+msgstr "Tạm tính"
 
 #: templates/cart/cart-totals.php:71
 msgid "(estimated for %s)"
@@ -26066,7 +26068,7 @@ msgstr ""
 
 #: templates/cart/cart.php:141
 msgid "Update cart"
-msgstr ""
+msgstr "Cập nhật giỏ hàng"
 
 #: templates/cart/cross-sells.php:27
 msgid "You may be interested in&hellip;"
@@ -26078,7 +26080,7 @@ msgstr ""
 
 #: templates/cart/proceed-to-checkout-button.php:27
 msgid "Proceed to checkout"
-msgstr ""
+msgstr "Đặt hàng"
 
 #: templates/cart/shipping-calculator.php:24
 msgid "Calculate shipping"
@@ -26108,19 +26110,19 @@ msgstr ""
 
 #: templates/checkout/form-checkout.php:52
 msgid "Your order"
-msgstr ""
+msgstr "Thông tin đơn hàng"
 
 #: templates/checkout/form-coupon.php:26
 msgid "Have a coupon?"
-msgstr ""
+msgstr "Bạn có mã giảm giá?"
 
 #: templates/checkout/form-coupon.php:26
 msgid "Click here to enter your code"
-msgstr ""
+msgstr "Nhấn để nhập mã giảm giá"
 
 #: templates/checkout/form-coupon.php:31
 msgid "If you have a coupon code, please apply it below."
-msgstr ""
+msgstr "Nếu bạn có mã giảm giá xin vui lòng nhập phía dưới."
 
 #: templates/checkout/form-login.php:26
 msgid "Returning customer?"
@@ -26663,7 +26665,7 @@ msgstr ""
 #: templates/single-product/meta.php:35
 msgid "Category:"
 msgid_plural "Categories:"
-msgstr[0] ""
+msgstr[0] "Danh mục:"
 msgstr[1] ""
 
 #: templates/single-product/meta.php:37
@@ -26731,7 +26733,7 @@ msgstr[1] ""
 
 #: templates/single-product-reviews.php:58
 msgid "There are no reviews yet."
-msgstr ""
+msgstr "Chưa có nhận xét nào."
 
 #: templates/single-product-reviews.php:71
 msgid "Add a review"
@@ -26739,7 +26741,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:71
 msgid "Be the first to review &ldquo;%s&rdquo;"
-msgstr ""
+msgstr "Hãy là người đầu tiên nhận xét &ldquo;%s&rdquo;"
 
 #: templates/single-product-reviews.php:72
 msgid "Leave a Reply to %s"
@@ -26747,7 +26749,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:82
 msgid "Submit"
-msgstr ""
+msgstr " Gửi "
 
 #: templates/single-product-reviews.php:88
 msgid "You must be <a href=\"%s\">logged in</a> to post a review."
@@ -26755,7 +26757,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:92
 msgid "Your rating"
-msgstr ""
+msgstr "Đánh giá của bạn"
 
 #: templates/single-product-reviews.php:93
 msgid "Rate&hellip;"
@@ -26783,7 +26785,7 @@ msgstr ""
 
 #: templates/single-product-reviews.php:102
 msgid "Your review"
-msgstr ""
+msgstr "Nhận xét của bạn"
 
 #: templates/single-product-reviews.php:111
 msgid ""
