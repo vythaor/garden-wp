@@ -1,0 +1,397 @@
+/* Styles for admin page */
+
+
+
+/* Submit button */
+/* .options .submit { */
+.submit {
+    position: sticky !important;
+    bottom: 1px;
+    float: right; 
+}
+
+
+.display-none {
+    display: none;
+}
+
+.display-block {
+    display: block;
+}
+
+.mobilemonkey-big-button {
+    padding: 20px 40px !important;
+    line-height: 0 !important;
+}
+
+.connect-button {
+    background-color: #4267b2;
+    border-radius: 4px;
+    color: #fff;
+    display: block;
+    width: 254px;
+    height: 40px;
+    text-decoration: none;
+}
+
+.connect-button:hover, .connect-button:focus{
+    color: #fff;
+}
+
+.connected-page{
+    padding: 15px;
+    background: #eaeaea;
+    margin-bottom: 30px;
+}
+
+.connected-page .connected-page-title{
+    font-size: 16px;
+    font-weight: 700;    
+}
+
+.connected-page .connected-page-title span {
+    font-weight: bold;
+    color: green;
+}
+.connected-page .connected-page-settings {
+    position: relative;
+}
+
+.connected-page .connected-page-settings a {
+    background-color: #ca4646;
+    display: inline-block;    
+    padding: 3px 8px;
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+.connected-page .connected-page-settings a:hover {
+    color: #3a3a3a;
+    background: #e8e8e8;
+}
+
+.cat-checklist{
+    padding: 15px !important;
+    margin-bottom: 30px !important;
+}
+
+.connect-button span {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    display: inline-block;
+    width: 200px;
+}
+
+.connect-button svg{
+    height: 24px;
+    margin: 8px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.choose-page {
+ margin-top: 10px;
+}
+
+.choose-page .select-page {
+    border: 1px solid #dedede;
+    padding: 15px;
+    margin-top: -1px;
+    font-size: 16px;
+}
+
+.choose-page .select-page + .select-page{
+    border-bottom: none;
+}
+
+.choose-page .select-page:last-child{
+    border-bottom: 1px solid #dedede;
+}
+
+.choose-page .select-page a{
+    background-color: #d93;
+    display: inline-block;
+    float: right;
+    padding: 3px 8px;
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.choose-page .select-page a:hover{
+    color: #3a3a3a;
+    background: #e8e8e8;
+}
+
+.logout-mobilemonkey{
+    text-align: right;
+    margin: 15px;
+}
+
+.logout-mobilemonkey a{
+    background-color: #d93;
+    display: inline-block;
+    float: right;
+    padding: 3px 8px;
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.logout-mobilemonkey a:hover{
+    color: #3a3a3a;
+    background: #e8e8e8;
+}
+
+.mobilemonkey-button {
+    margin-top: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.mobilemonkey-button button {
+    background-color: #d93;
+    display: inline-block;
+    padding: 3px 8px;
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.mobilemonkey-button .copiedtext{
+    color: green;
+    display: none;
+}
+
+.get-subscribers_block {
+    margin-bottom: 15px;
+}
+
+.get-subscribers_block h3 {
+    margin: 0 0 10px;
+}
+
+.get-subscribers_block .link-icon {
+    width: 45px;
+    display: inline-block;
+    margin-right: 10px;
+    vertical-align: top;
+}
+
+.get-subscribers_block .link-icon path {
+    fill: #654fa5;
+}
+
+.get-subscribers_block .link-info {
+    display: inline-block;
+}
+
+.get-subscribers_block button {
+    background-color: #d93;
+    display: inline-block;
+    border: none;
+    padding: 5px 8px;
+    font-size: 12px;
+    text-decoration: none;
+    color: #fff;
+    border-radius: 5px;
+}
+
+.get-subscribers_block button:hover {
+    cursor: pointer;
+    color: #3a3a3a;
+    background: #e8e8e8;
+}
+
+.mobilemonkey-settings {
+    display: inline-block;
+}
+
+.mobilemonkey-settings, .connect-page {
+    position: relative;
+}
+
+.connect-page {
+    float: right;
+    height: 32px;
+}
+
+.opacity-button {
+    opacity: 0.3;
+}
+
+.lazyload {
+    display: none;
+    position: absolute;
+    top: 0;
+    background: url(../img/lazyload.svg) center no-repeat;
+    width: 100%;
+    bottom: 0;
+}
+
+.connect-page .lazyload, .connected-page-settings .lazyload {
+    top: -8px;
+}
+.active-page-info {   
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* .active-page-image, .active-page-info {
+    display: inline-block;
+    vertical-align: middle;
+} */
+
+.active-page-image {
+    max-width: 60px;
+    margin-right: 10px;
+}
+
+.toplevel_page_mobilemonkey-contacts {
+    padding-right: 20px;
+}
+
+/* i.mce-i-mobilemonkey-shortcode {
+    background-image: url('../image/tinymce_icon.png');
+} */
+
+.get-mm-free-button {
+    position: relative;
+    width: 254px;
+    height: 40px;
+    overflow: hidden;
+    border-radius: 3px;
+}
+
+.get-mm-free-button__fallback,
+.get-mm-free-button__fallback:hover {
+    text-decoration: none;
+}
+
+/*Fallback button and iframe:before get same styles */
+.get-mm-free-button__fallback, .get-mm-free-button .fb-send-to-messenger.fb_iframe_widget::before {
+    color: #fff;
+    font-size: 19px;
+    line-height: 29px;
+    text-transform: uppercase;
+    border-radius: 3px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: all 0.3s ease 0s;
+}
+
+.get-mm-free-button .fb-send-to-messenger.fb_iframe_widget::before {
+    pointer-events: none;
+    z-index: 2;
+    content: 'Connect Facebook Page';
+    font-family: Helvetica, Arial, sans-serif;
+    background: #4267b2 url(../img/fb.svg) 8px no-repeat;
+    background-size: 24px;
+    font-size: 14px;
+    text-align: right;
+    padding-right: 13px;
+    box-sizing: border-box;
+    color: #fff;
+    width: 254px;
+    height: 40px;
+    line-height: 40px;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 3px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    transition: all 0.3s ease 0s;
+}
+
+/* Hide Facebook plugin until rendered callback from Facebook */
+.get-mm-free-button .fb-send-to-messenger {
+    display: none;
+}
+
+/* Add class to show Facebook plugin once get rendered callback from Facebook */
+.get-mm-free-button .fb-send-to-messenger.fb-send-to-messenger--loaded-iframe {
+    display: block;
+}
+
+.mobilemonkey-logo {
+    background: url(../img/mobilemonkey_logo.png) left bottom no-repeat;
+    background-size: contain;
+    height: 70px;
+    max-width: 330px;
+}
+.options-subtitle {
+    font-size: 12px;
+}
+
+
+.toc-tab-box h2.acc-title {
+    color: #002d5b;
+    background: #F3FAFD;
+    padding: 20px 0px 20px 30px;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 0px;
+    margin-bottom: 4px;
+    cursor: pointer;
+    position: relative;
+    transition: all 0.5s ease;
+    width: 100%;
+    float: left;
+}
+
+.toc-tab-box .acc-content {
+    width: 100%;
+    margin-bottom: 4px;
+    float: left;
+    padding: 30px 30px 30px 60px;
+    font-size: 14px;
+    position: relative;
+    overflow: hidden;
+    background-color: #FFFFFF;
+}
+
+
+.accordionItemHeading h4 {
+    color: #389AD8;
+    font-size: 16px;
+    transition: all 0.5s ease;
+    line-height: 24px;
+    font-weight: 400;
+    margin: 15px 0px;
+}
+
+
+.step_fa{
+    float: right;
+    margin-right: 20px;
+    font-size: 48px;
+    font-weight: bolder;
+    color: #666;
+    vertical-align: middle;
+}
+.circle
+{
+    width:50px;
+    height:50px;
+    border-radius:25px;
+    color:#fff;
+    background:#647BE0;
+    display: inline-block;
+    font-size: 35px;
+    line-height: 42px;
+    text-align: center;
+    vertical-align: middle;
+    margin-right: 20px;
+}
